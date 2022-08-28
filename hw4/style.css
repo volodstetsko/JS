@@ -1,0 +1,11 @@
+.product-card {
+    width: 300px;
+}
+.product-image {
+    width: 100%;
+}
+.product-title {
+    width: 100%;
+    font-size: 40px;
+    color: #c22d0c;
+}

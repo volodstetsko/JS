@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28b6d817-8891-419f-9b39-12acffb20c90" name="Changes" comment="add project" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="d5bf2b03-c909-4079-833c-1973f66bdbe1" />
+        <option name="url" value="https://github.com/volodstetsko/JS.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CNXFtU5e7vCbukR3foTayZNxBD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/NATALIYA/IdeaProjects/html",
+    "list.type.of.created.stylesheet": "CSS",
+    "settings.editor.selected.configurable": "fileTemplates"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\NATALIYA\IdeaProjects\JS\mini projekt" />
+      <recent name="C:\Users\NATALIYA\IdeaProjects\JS\hw4" />
+      <recent name="C:\Users\NATALIYA\IdeaProjects\CSS\hw3" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28b6d817-8891-419f-9b39-12acffb20c90" name="Changes" comment="" />
+      <created>1658643927018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658643927018</updated>
+      <workItem from="1658643932561" duration="5810000" />
+      <workItem from="1658742889845" duration="3179000" />
+      <workItem from="1658756139041" duration="235000" />
+      <workItem from="1658767646517" duration="2473000" />
+      <workItem from="1658930954873" duration="9651000" />
+      <workItem from="1659292965058" duration="1192000" />
+      <workItem from="1659297295357" duration="565000" />
+      <workItem from="1659341119446" duration="14660000" />
+      <workItem from="1659376375325" duration="646000" />
+      <workItem from="1659533016961" duration="872000" />
+      <workItem from="1659542295103" duration="5707000" />
+      <workItem from="1659879848712" duration="12076000" />
+      <workItem from="1659949555387" duration="8781000" />
+      <workItem from="1659977585708" duration="7203000" />
+      <workItem from="1660123956255" duration="6756000" />
+      <workItem from="1660422476066" duration="5756000" />
+      <workItem from="1660505504561" duration="23000" />
+      <workItem from="1660505785824" duration="734000" />
+      <workItem from="1660728756542" duration="8670000" />
+      <workItem from="1661449242606" duration="6559000" />
+      <workItem from="1661592496717" duration="53816000" />
+      <workItem from="1661723243006" duration="112000" />
+      <workItem from="1661723597523" duration="1033000" />
+      <workItem from="1661724700830" duration="121000" />
+      <workItem from="1661725180682" duration="1673000" />
+    </task>
+    <task id="LOCAL-00001" summary="add hw1 js">
+      <created>1658747193883</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658747193883</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add hw1 js">
+      <created>1658747619980</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658747619980</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add hw1 js">
+      <created>1658936719486</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658936719486</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add hw1 js">
+      <created>1658944675341</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658944675341</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add hw3 js">
+      <created>1659375820738</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1659375820738</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add hw1 js">
+      <created>1659376516642</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1659376516642</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add hw3 js">
+      <created>1659376725997</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1659376725997</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add hw4 js">
+      <created>1659898021295</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1659898021346</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add hw5 js">
+      <created>1659988236733</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1659988236733</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add hw6 js">
+      <created>1660428133339</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1660428133339</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add hw6 js">
+      <created>1661720820455</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1661720820456</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add project">
+      <created>1661721498162</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1661721498162</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add hw1 js" />
+    <MESSAGE value="add hw3 js" />
+    <MESSAGE value="add hw4 js" />
+    <MESSAGE value="add hw5 js" />
+    <MESSAGE value="add hw6 js" />
+    <MESSAGE value="add project" />
+    <option name="LAST_COMMIT_MESSAGE" value="add project" />
+  </component>
+</project>

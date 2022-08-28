@@ -1,0 +1,135 @@
+
+/*      Стилизація проєкта -*/
+/*      index.html - всі блоки з user - по 2 в рядок. кнопки/аосилвння розташувати під інформацією про user.*/
+/*      user-details.html - блок з інфою про user зверху сторінки. Кнопка нижчє, на 90% ширини сторінки, по центру.*/
+/*      блоки з короткою іфною про post - в ряд по 5 .*/
+/*      post-details.html - блок з інфою про пост зверху. Коментарі - по 4 в ряд.*/
+/*      Всі елементи котрі характеризують users, posts, comments візуалізувати, так, щоб було видно що це блоки (дати фон. марджини і тд)*/
+
+.wrap{
+    margin: 0 auto;
+    width:90%;
+    height:600px;
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.user{
+    width:45%;
+    height:15%;
+    background: #e9e9ee;
+    border: #15151c solid 2px;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-size: 25px;
+}
+
+.user-details{
+    margin: 0 auto;
+    width:90%;
+    display: flex;
+    flex-direction:column;
+    justify-content: space-between;
+}
+
+.details{
+    background: #e9e9ee;
+    border: #15151c solid 1px;
+    color: blue;
+    font-size: 25px;
+    margin: 0 auto;
+    width:100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    padding: 8px;
+    column-gap: 30px;
+}
+
+.button {
+    background: #e9e9ee;
+    border: #15151c solid 1px;
+    border-radius: 20px;
+    color: #070744;
+    font-size: 30px;
+    margin: 0 auto;
+    width:90%;
+    height: 60px;
+    display: block;
+    justify-content: center;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.posts{
+    margin: 0 auto;
+    width:90%;
+    height:350px;
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.post{
+    width:18%;
+    height:150px;
+    background: #e9e9ee;
+    border: #15151c solid 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 15px;
+    padding: 5px;
+
+}
+
+.post-details{
+    background: #e9e9ee;
+    border: #15151c solid 1px;
+    color: blue;
+    font-size: 25px;
+    margin: 0 auto;
+    width:90%;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+
+}
+
+.coments {
+    margin: 0 auto;
+    width: 90%;
+    height: 450px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    margin-top: 30px;
+    padding-left: 0;
+
+}
+
+.coment{
+    width:17%;
+    height:100%;
+    background: #e9e9ee;
+    border: #15151c solid 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 15px;
+    padding: 5px;
+}
