@@ -16,6 +16,21 @@
     let div = document.createElement('div');
     div.classList.add(`user-details`);
 
+
+    // function explorer(info){
+    //         for (const infoElement in info) {
+    //             if (typeof info[infoElement] !=='object'){
+    //                 let p = document.createElement('p')
+    //                 p.innerText =`${infoElement} - ${info[infoElement]}`
+    //                 div.appendChild(p);
+    //                 p.classList.add(`details`);
+    //             }else {
+    //                 explorer(info[infoElement])
+    //             }
+    //         }
+    //     }
+    // explorer(info)
+
     for (const infoElement in info) {
           if (typeof info[infoElement] === 'object') {
               let h4 = document.createElement(`h4`);
@@ -67,7 +82,7 @@
     li.classList.add(`post`);
 
     let a = document.createElement(`a`);
-    a.href = `post-details.html?id=${post.id}`;
+    a.href = `../post/post-details.html?id=${post.id}`;
     a.innerText = `post-details`;
     li.appendChild(a);
     }

@@ -16,7 +16,7 @@ fetch('https://jsonplaceholder.typicode.com/users')
         div.innerText = `${user.id}  --  ${user.name}`;
 
         let a = document.createElement(`a`);
-        a.href = `user-details.html?id=${user.id}`;
+        a.href = `../mini project/user/user-details.html?id=${user.id}`;
         a.innerText = `user-details`;
         div.appendChild(a);
 
